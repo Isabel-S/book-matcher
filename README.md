@@ -4,7 +4,7 @@
 - after labelling the skipped image, implement asking if there are any other books in the masked bbox area
 - allow labeller to skip labeling this image or go back
 - keyboard commands
-- do not auto select "yes" or "no"
+- for skipped books, update the title and call ID on the screen
 
 ## Goal Functionality
 
